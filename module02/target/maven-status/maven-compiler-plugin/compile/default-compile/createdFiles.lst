@@ -1,0 +1,4 @@
+apigateway/model/Product.class
+lambda/ReadProduct.class
+apigateway/App.class
+apigateway/LambdaFunction.class

@@ -14,6 +14,7 @@ import com.amazonaws.annotation.SdkInternalApi;
 /**
  * EmptyMarshaller
  */
+
 @Generated("com.amazonaws:aws-java-sdk-code-generator")
 @SdkInternalApi
 public class EmptyMarshaller {
